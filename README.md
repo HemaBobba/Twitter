@@ -23,8 +23,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-use this link for gif: https://imgur.com/tW55fHD.gif
+My gif size is too big so I am having trouble displaying the gif.
+Please use this link to view my gif: https://imgur.com/tW55fHD.gif
 
 <img src='https://imgur.com/tW55fHD.gif' title='Video Walkthrough' width='500ppx' alt='Video Walkthrough' />
 
