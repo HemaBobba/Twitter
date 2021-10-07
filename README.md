@@ -23,9 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories: 
 
-here is the link https://imgur.com/iwL7RYZ.gif
+here is the link https://imgur.com/iwL7RYZ.gif ,  https://imgur.com/ABYip6X.gif
 
 <img src='https://imgur.com/iwL7RYZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/ABYip6X.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
  # Twitter - Part I
